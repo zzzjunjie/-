@@ -6,9 +6,6 @@ import org.springframework.beans.factory.NoSuchBeanDefinitionException;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-/**
- * Created by SinjinSong on 2017/3/16.
- */
 @Slf4j
 public final class SpringContextUtil {
 

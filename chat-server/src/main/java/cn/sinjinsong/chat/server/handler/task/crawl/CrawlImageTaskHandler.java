@@ -19,9 +19,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.*;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 @Component("BaseTaskHandler.crawl_image")
 @Scope("prototype")
 @Slf4j

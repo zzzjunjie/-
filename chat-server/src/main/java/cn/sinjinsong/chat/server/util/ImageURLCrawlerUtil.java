@@ -12,9 +12,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by SinjinSong on 2017/5/26.
- */
 public class ImageURLCrawlerUtil {
     private static final String URL_PATTERN = "https://movie.douban.com/subject/%s/all_photos";
     private static String USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; LCTE; rv:11.0) like Gecko";

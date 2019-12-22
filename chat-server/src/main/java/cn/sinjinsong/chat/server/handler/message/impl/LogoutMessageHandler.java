@@ -22,9 +22,6 @@ import java.nio.channels.SocketChannel;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 @Component("MessageHandler.logout")
 @Slf4j
 public class LogoutMessageHandler extends MessageHandler {

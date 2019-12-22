@@ -5,10 +5,6 @@ import org.apache.commons.lang.StringUtils;
 
 import java.util.HashMap;
 import java.util.Map;
-
-/**
- * Created by SinjinSong on 2017/5/26.
- */
 public class RequestParser {
     
     public static Request parse(String rawURL){

@@ -12,9 +12,6 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.channels.SocketChannel;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 @Component("interruptedExceptionHandler")
 public class InterruptedExceptionHandler {
     

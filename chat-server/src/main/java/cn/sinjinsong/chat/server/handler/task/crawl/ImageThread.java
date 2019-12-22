@@ -7,9 +7,6 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.util.concurrent.Callable;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 @Slf4j
 public class ImageThread implements Callable<byte[]>{
     private String url;

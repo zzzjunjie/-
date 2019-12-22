@@ -22,9 +22,6 @@ import java.util.Scanner;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by SinjinSong on 2017/3/25.
- */
 
 /**
  * @Slf4j会为当前类生成一个名为log的日志对象

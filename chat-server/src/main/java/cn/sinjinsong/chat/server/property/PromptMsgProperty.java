@@ -3,9 +3,6 @@ package cn.sinjinsong.chat.server.property;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 
-/**
- * Created by SinjinSong on 2017/5/24.
- */
 public class PromptMsgProperty {
     public static final String LOGIN_SUCCESS = "登录成功，当前共有%d位在线用户";
     public static final String LOGIN_FAILURE = "用户名或密码错误或重复登录，登录失败";

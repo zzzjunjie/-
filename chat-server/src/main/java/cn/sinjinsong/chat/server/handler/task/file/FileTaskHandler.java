@@ -14,9 +14,6 @@ import org.springframework.stereotype.Component;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 @Component("BaseTaskHandler.file")
 @Scope("prototype")
 @Slf4j

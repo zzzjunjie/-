@@ -16,7 +16,6 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
- * Created by SinjinSong on 2017/5/23.
  * 生产者
  * 注意所有的InterruptedException，要么抛给上层，要么自己处理
  */

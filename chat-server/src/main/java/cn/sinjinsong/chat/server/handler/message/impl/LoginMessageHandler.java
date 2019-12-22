@@ -18,9 +18,6 @@ import java.nio.channels.SocketChannel;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 @Component("MessageHandler.login")
 public class LoginMessageHandler extends MessageHandler {
     @Autowired

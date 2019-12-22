@@ -11,7 +11,6 @@ import java.io.IOException;
 import java.util.concurrent.*;
 
 /**
- * Created by SinjinSong on 2017/5/23.
  * 消费者
  * 负责从阻塞队列中取出任务并提交给线程池
  */

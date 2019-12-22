@@ -20,9 +20,6 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.security.NoSuchAlgorithmException;
 
-/**
- * Created by SinjinSong on 2017/5/24.
- */
 @Component("httpConnectionManager")
 public class HttpConnectionManager {
 

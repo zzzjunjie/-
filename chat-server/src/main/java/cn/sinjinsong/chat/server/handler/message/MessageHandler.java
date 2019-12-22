@@ -12,9 +12,6 @@ import java.nio.channels.SocketChannel;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 public abstract class MessageHandler {
     
     public static final String SYSTEM_SENDER = "系统提示";

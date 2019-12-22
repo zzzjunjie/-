@@ -15,9 +15,6 @@ import java.nio.channels.Selector;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 @Component("MessageHandler.broadcast")
 public class BroadcastMessageHandler extends MessageHandler {
     @Override

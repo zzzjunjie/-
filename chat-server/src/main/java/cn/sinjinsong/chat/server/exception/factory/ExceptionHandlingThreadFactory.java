@@ -3,10 +3,6 @@ package cn.sinjinsong.chat.server.exception.factory;
 import java.util.concurrent.ThreadFactory;
 
 /**
- * Created by SinjinSong on 2017/5/25.
- */
-
-/**
  * 配合异常处理器
  */
 public class ExceptionHandlingThreadFactory implements ThreadFactory {

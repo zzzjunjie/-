@@ -10,9 +10,6 @@ import cn.sinjinsong.common.util.ProtoStuffUtil;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 public abstract class BaseTaskHandler implements Runnable {
     protected Task info;
     protected HttpConnectionManager manager;

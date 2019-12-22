@@ -15,10 +15,6 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 
 /**
- * Created by SinjinSong on 2017/5/24.
- */
-
-/**
  * UncaughtExceptionHandler异常处理器可以处理ExecutorService通过execute方法提交的线程中抛出的RuntimeException
  */
 @Component("taskExceptionHandler")
