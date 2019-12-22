@@ -7,9 +7,6 @@ import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-/**
- * Created by SinjinSong on 2017/4/23.
- */
 public class DateTimeUtil {
     private static DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
     public static LocalDateTime toLocalDateTime(Long date) {

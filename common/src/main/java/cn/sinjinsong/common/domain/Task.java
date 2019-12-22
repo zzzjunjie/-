@@ -7,9 +7,6 @@ import lombok.NoArgsConstructor;
 
 import java.nio.channels.SocketChannel;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

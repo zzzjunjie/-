@@ -6,9 +6,6 @@ import java.util.List;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
-/**
- * Created by SinjinSong on 2017/5/25.
- */
 public class ZipUtil {
     private static final String FILE_NAME_PATTERN = "%s.%s";
     private static final String DEFAULT_SUFFIX = "data";

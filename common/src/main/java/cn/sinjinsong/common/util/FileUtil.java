@@ -6,9 +6,6 @@ import java.nio.channels.FileChannel;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 public class FileUtil {
     public static void save(String path, byte[] buf) throws IOException {
         FileChannel outChannel = FileChannel.open(Paths.get(path),

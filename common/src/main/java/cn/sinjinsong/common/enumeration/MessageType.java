@@ -1,8 +1,5 @@
 package cn.sinjinsong.common.enumeration;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 public enum MessageType {
     LOGIN(1,"登录"),
     LOGOUT(2,"注销"),

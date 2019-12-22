@@ -6,9 +6,6 @@ import lombok.NoArgsConstructor;
 
 import java.util.Map;
 
-/**
- * Created by SinjinSong on 2017/5/26.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

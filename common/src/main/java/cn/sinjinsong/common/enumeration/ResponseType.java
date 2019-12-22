@@ -1,8 +1,5 @@
 package cn.sinjinsong.common.enumeration;
 
-/**
- * Created by SinjinSong on 2017/5/23.
- */
 public enum ResponseType {
     NORMAL(1,"消息"),
     PROMPT(2,"提示"),
